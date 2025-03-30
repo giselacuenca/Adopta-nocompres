@@ -1,0 +1,33 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perros en Adopción</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>🐶 Perros en Adopción 🐶</h1>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="adopciones.html">Adopciones</a>
+            <a href="contacto.html">Contacto</a>
+        </nav>
+    </header>
+
+    <section>
+        <div class="perritos">
+            <div class="perrito">
+                <img src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg" alt="Luna">
+                <p><strong>Luna</strong> - 3 años, tranquila y amorosa.</p>
+            </div>
+            <div class="perrito">
+                <img src="https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg" alt="Rocky">
+                <p><strong>Rocky</strong> - 1 año, energético y fiel.</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
