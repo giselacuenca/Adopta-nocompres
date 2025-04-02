@@ -1,0 +1,22 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perrera "MAX"</title>
+    <style>
+        <body>
+        <!-- index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max</title>
+</head>
+<body>
+    <h1>Max</h1>
+    <a href="galeria.html">
+        <img src="max.jpg" alt="Max" width="200">
+    </a>
+</body>
+</html>
